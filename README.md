@@ -1,2 +1,3 @@
-# sql_outer_join_lecture
-Outer Join Lecture
+# Outer Join Lecture
+
+Use the included SQL to generate and load test tables.
